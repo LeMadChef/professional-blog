@@ -1,2 +1,2 @@
 # lemadchef.github.io
-Professional blog
+Professional blog using Jekyll 
